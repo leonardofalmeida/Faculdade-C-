@@ -5,4 +5,6 @@ Esse repositório contém exercicios feitos por mim, que são exercicios do DRED
 
 Todos exercicios, vem com o enunciado da questão no cabeçalho. E estão comentados por mim (estou aprendendo a comentar codigos!)
 
+Os exercicios serão atualizados, assim que eu for fazendo eles.
+
 Bem vindos :D
